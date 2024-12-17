@@ -5,7 +5,7 @@
 
 ----
 #### 🔍 MobileNetV2 (add convolutional layers)
-
+![mobilenetv2 results](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/final_results.png)
 #### 🐱 YOLOv5 using custom dataset
 
 #### 📱 Mobile Application
