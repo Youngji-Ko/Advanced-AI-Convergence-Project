@@ -5,6 +5,8 @@
 
 Project Topic: AI Diagnosis Technology for Eye Diseases Using Cat Eye Images
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 🔍 MobileNetV2 (add convolutional layers)
 
 🐱YOLOv5 using custom dataset
