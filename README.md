@@ -7,6 +7,6 @@
 
 #### 🔍 MobileNetV2 (add convolutional layers)
 
-#### 🐱YOLOv5 using custom dataset
+#### 🐱 YOLOv5 using custom dataset
 
-#### 📱Mobile Application
+#### 📱 Mobile Application
