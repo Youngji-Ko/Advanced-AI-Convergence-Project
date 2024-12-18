@@ -5,7 +5,7 @@
 
 ----
 #### 🔍 MobileNetV2 (add convolutional layers)
-![mobilenetv2 results](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/final_results.png)
+![mobilenetv2 results](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/mobilenetv2/final_results.png)
 #### 🐱 YOLOv5 using custom dataset
 ![yolov5 confusion matrix](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/yolov5/confusion_matrix.png)
 ![yolov5 results](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/yolov5/results.png)
