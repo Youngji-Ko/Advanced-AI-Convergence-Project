@@ -1,0 +1,13 @@
+train: ../train_v2/images
+val: ../valid_v2/images
+test: ../test_v2/images
+
+nc: 1
+names: ['cat eye']
+
+roboflow:
+  workspace: kyjworkspace
+  project: cat-eye-oefnv
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kyjworkspace/cat-eye-oefnv/dataset/2
