@@ -10,3 +10,4 @@
 ![yolov5 confusion matrix](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/yolov5/confusion_matrix.png)
 ![yolov5 results](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/yolov5/results.png)
 #### 📱 Mobile Application
+![mobile application](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/mobile_application/application_process.png)
