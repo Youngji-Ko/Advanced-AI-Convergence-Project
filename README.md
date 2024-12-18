@@ -12,4 +12,4 @@
 #### 📱 Mobile Application
 ![mobile application](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/mobile_application/application_process.png)
 #### 🎬 Demo Video (Demo_video.mp4)
-<img src="![Demo_gif](https://github.com/user-attachments/assets/da0fbe80-95d4-40cb-ad19-ee726e418b22)">
+![Demo_gif](https://github.com/Youngji-Ko/Advanced-AI-Convergence-Project/blob/main/image/Demo_gif.gif)
